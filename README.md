@@ -1,7 +1,7 @@
 # PM2.5 Forecasting Streamlit App
 
 This app deploys the PM2.5 Phnom Penh 48-hour forecasting model using XGBoost.
-It does not require dataset upload. It fetches hourly PM2.5, PM10, and weather data from Open-Meteo.
+Fetches hourly PM2.5, PM10, and weather data from Open-Meteo.
 
 
 
